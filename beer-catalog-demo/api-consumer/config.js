@@ -6,7 +6,7 @@
 define(function(require, exports, module) {
   module.exports = {
     // The base URL of the Beer API
-    baseURL: "http://api-beer-catalog:8080/api"
+    baseURL: "http://api-beer-catalog-api-demo-beercatalog.apps.cluster-telecom-4fc0.telecom-4fc0.example.opentlc.com/api"
 
     // If a user-key is required, you can pass it as HTTP Header:
     //additionalHeaders: { "user-key": "db0a8a7d3ca99b5df5aace2f61ac4e45" },
