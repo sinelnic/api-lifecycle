@@ -144,7 +144,8 @@
     "api-key": {
       "type": "apiKey",
       "name": "api-key",
-      "in": "header"
+      "in": "header",
+      "x-data-threescale-name": "user_keys"
     }
   },
   "security": [
