@@ -34,14 +34,6 @@
       },
       "parameters": [
         {
-          "name": "user_key",
-          "description": "Your access API Key",
-          "type": "string",
-          "in": "query",
-          "x-data-threescale-name": "user_keys",
-          "required": true
-  		},
-        {
           "name": "name",
           "in": "path",
           "description": "Name of beer to retrieve",
@@ -71,14 +63,6 @@
         }
       },
       "parameters": [
-        {
-          "name": "user_key",
-          "description": "Your access API Key",
-          "type": "string",
-          "in": "query",
-          "x-data-threescale-name": "user_keys",
-          "required": true
-  		},
         {
           "name": "status",
           "in": "path",
@@ -115,14 +99,6 @@
         }
       },
       "parameters": [
-        {
-          "name": "user_key",
-          "description": "Your access API Key",
-          "type": "string",
-          "in": "query",
-          "x-data-threescale-name": "user_keys",
-          "required": true
-  		},
         {
           "name": "page",
           "in": "query",
