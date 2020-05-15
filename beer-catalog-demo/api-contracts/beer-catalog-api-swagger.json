@@ -1,8 +1,8 @@
 {
   "swagger": "2.0",
   "info": {
-    "title": "Beer Catalog - Mock",
-    "description": "Esta es la documentación de la API de Beer Catalog correspondiente a la versión de Mock. Podés descargarla de https://github.com/sinelnic/api-lifecycle/blob/master/beer-catalog-demo/api-contracts/beer-catalog-api-swagger.json.",
+    "title": "Beer Catalog - Test",
+    "description": "Esta es la documentación de la API de Beer Catalog correspondiente a la versión de Test. Podés descargarla de https://github.com/sinelnic/api-lifecycle/blob/test/beer-catalog-demo/api-contracts/beer-catalog-api-swagger.json.",
     "contact": {
       "name": "Laurent Broudoux",
       "url": "http://github.com/lbroudoux",
