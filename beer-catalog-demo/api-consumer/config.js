@@ -6,7 +6,7 @@
 define(function(require, exports, module) {
   module.exports = {
     // The base URL of the Beer API
-    baseURL: "https://beer-catalog-mock-3scale-apicast-production.apps.cluster-telecom-4fc0.telecom-4fc0.example.opentlc.com:443",
+    baseURL: "https://beer-catalog-mock-spec-3scale-apicast-production.apps.cluster-telecom-4fc0.telecom-4fc0.example.opentlc.com:443",
 
     // If a user-key is required, you can pass it as HTTP Header:
     additionalHeaders: { "user-key": "ec4075f2dc95d0b7e4a1ec968dcf8342" }
