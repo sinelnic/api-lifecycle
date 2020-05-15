@@ -34,6 +34,7 @@ public class BeerRepository {
    private static Map<String, Beer> beers = new HashMap<>();
 
    static {
+      beers.put("Birra Productiva", new Beer("Birra Productiva", "Argentina", "Lúpulo", 4.2f, "available"));
       beers.put("Rodenbach", new Beer("Rodenbach", "Belgium", "Brown ale", 4.2f, "available"));
       beers.put("Westmalle Triple", new Beer("Westmalle Triple", "Belgium", "Trappist", 3.8f, "available"));
       beers.put("Weissbier", new Beer("Weissbier", "Germany", "Wheat", 4.1f, "out_of_stock"));
