@@ -9,7 +9,7 @@ define(function(require, exports, module) {
     baseURL: "https://beer-catalog-mock-3scale-apicast-production.apps.cluster-telecom-4fc0.telecom-4fc0.example.opentlc.com:443",
 
     // If a user-key is required, you can pass it as HTTP Header:
-    additionalHeaders: { "user-key": "43778b9e692bd8626363f7ad88821391" }
+    additionalHeaders: { "user-key": "ec4075f2dc95d0b7e4a1ec968dcf8342" }
 
     // Or in the Query String
     //extraQueryStringSuffix: "user_key=db0a8a7d3ca99b5df5aace2f61ac4e45"
